@@ -42,7 +42,7 @@ Pillow==9.4.0
 pluggy
 ply==3.11
 pyarrow==8.0.0
-pydot @
+pydot
 pyflakes
 pyls-spyder==0.4.0
 pyOpenSSL
