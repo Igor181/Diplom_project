@@ -6,85 +6,85 @@ backports.tempfile==1.0
 certifi==2020.6.20
 fonttools==4.25.0
 graphviz
-h5py @ file:///C:/ci/h5py_1659089886851/work
-imagesize @ file:///C:/Windows/TEMP/abs_3cecd249-3fc4-4bfc-b80b-bb227b0d701en12vqzot/croots/recipe/imagesize_1657179501304/work
-importlib-metadata @ file:///C:/ci/importlib-metadata_1648562631189/work
-importlib-resources @ file:///tmp/build/80754af9/importlib_resources_1625135880749/work
+h5py
+imagesize
+importlib-metadata
+importlib-resources
 inflection==0.5.1
-intervaltree @ file:///Users/ktietz/demo/mc3/conda-bld/intervaltree_1630511889664/work
-ipykernel @ file:///C:/b/abs_21ykzkm7y_/croots/recipe/ipykernel_1662361803478/work
-ipython @ file:///C:/Windows/TEMP/abs_45b5zb1l7q/croots/recipe/ipython_1659529855872/work
-ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
-ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
-isort @ file:///tmp/build/80754af9/isort_1628603791788/work
-jupyter-server @ file:///C:/b/abs_1cfi3__jl8/croot/jupyter_server_1671707636383/work
-jupyter_client @ file:///C:/b/abs_d8fk_kz9zk/croot/jupyter_client_1676330195659/work
-jupyter_core @ file:///C:/b/abs_b8r5lb5eus/croot/jupyter_core_1668084445779/work
-jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
-jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
-keras @ file:///C:/Users/builder/adipietro/mc3/tf210/conda-bld/keras_1669760570649/work/keras-2.10.0-py2.py3-none-any.whl
-Keras-Preprocessing @ file:///tmp/build/80754af9/keras-preprocessing_1612283640596/work
-Markdown @ file:///C:/b/abs_98lv_ucina/croot/markdown_1671541919225/work
-matplotlib @ file:///C:/b/abs_ae02atcfur/croot/matplotlib-suite_1667356722968/work
-matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934089728/work
-nbclassic @ file:///C:/b/abs_d0_ze5q0j2/croot/nbclassic_1676902914817/work
-nbclient @ file:///C:/ci/nbclient_1650308542913/work
-nbconvert @ file:///C:/ci/nbconvert_1649759177374/work
-nbformat @ file:///C:/b/abs_85_3g7dkt4/croot/nbformat_1670352343720/work
-nest-asyncio @ file:///C:/b/abs_3a_4jsjlqu/croot/nest-asyncio_1672387322800/work
-numexpr @ file:///C:/b/abs_a7kbak88hk/croot/numexpr_1668713882979/work
-numpy @ file:///C:/ci/numpy_and_numpy_base_1653574840943/work
-numpydoc @ file:///C:/b/abs_cfdd4zxbga/croot/numpydoc_1668085912100/work
-pandas @ file:///C:/ci/pandas_1641461312795/work
-pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
-paramiko @ file:///opt/conda/conda-bld/paramiko_1640109032755/work
+intervaltree
+ipykernel
+ipython @
+ipython-genutils
+ipywidgets
+isort
+jupyter-server
+jupyter_client
+jupyter_core
+jupyterlab-pygments
+jupyterlab-widgets
+keras
+Keras-Preprocessing
+Markdown
+matplotlib
+matplotlib-inline
+nbclassic
+nbclient
+nbconvert
+nbformat
+nest-asyncio
+numexpr
+numpy
+numpydoc
+pandas
+pandocfilters
+paramiko
 Pillow==9.4.0
-pluggy @ file:///C:/ci/pluggy_1648042781630/work
+pluggy
 ply==3.11
 pyarrow==8.0.0
-pydot @ file:///C:/b/abs_2c8n5fzxpn/croot/pydot_1671046280781/work
-pyflakes @ file:///tmp/build/80754af9/pyflakes_1636644436481/work
+pydot @
+pyflakes
 pyls-spyder==0.4.0
-pyOpenSSL @ file:///C:/b/abs_552w85x1jz/croot/pyopenssl_1677607703691/work
+pyOpenSSL
 pyparsing==2.3.1
 PyQt5==5.15.7
-PyQt5-sip @ file:///C:/Windows/Temp/abs_d7gmd2jg8i/croots/recipe/pyqt-split_1659273064801/work/pyqt_sip
+PyQt5-sip
 PyQtWebEngine==5.15.4
-pyrsistent @ file:///C:/ci/pyrsistent_1636093257833/work
-PySocks @ file:///C:/ci/pysocks_1594394709107/work
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
-python-lsp-black @ file:///tmp/build/80754af9/python-lsp-black_1634232156041/work
+pyrsistent
+PySocks
+python-dateutil
+python-lsp-black
 python-lsp-jsonrpc==1.0.0
-python-lsp-server @ file:///tmp/build/80754af9/python-lsp-server_1648176833691/work
-python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
-pytoolconfig @ file:///C:/b/abs_18sf9z_iwl/croot/pytoolconfig_1676315065270/work
-pytz @ file:///C:/b/abs_22fofvpn1x/croot/pytz_1671698059864/work
+python-lsp-server
+python-slugify
+pytoolconfig
+pytz
 pywin32==305.1
-pywin32-ctypes @ file:///C:/ci/pywin32-ctypes_1594392691209/work
-pywinpty @ file:///C:/b/abs_73vshmevwq/croot/pywinpty_1677609966356/work/target/wheels/pywinpty-2.0.10-cp37-none-win_amd64.whl
+pywin32-ctypes
+pywinpty
 PyYAML==6.0
-pyzmq @ file:///C:/ci/pyzmq_1657597757589/work
+pyzmq
 requests-oauthlib==1.3.0
-scipy @ file:///C:/ci/scipy_1661333074914/work
-spyder @ file:///C:/Windows/TEMP/abs_66k5aq_mkw/croots/recipe/spyder_1659599805372/work
-spyder-kernels @ file:///C:/ci/spyder-kernels_1646993247604/work
-streamlit @ file:///C:/b/abs_fbcea49a7l/croot/streamlit_1673469537084/work
+scipy
+spyder
+spyder-kernels
+streamlit
 temp==2020.7.2
-tensorboard @ file:///C:/Users/builder/adipietro/mc3/tf210/conda-bld/tensorboard_1669760968711/work/tensorboard-2.10.0-py3-none-any.whl
-tensorboard-data-server @ file:///C:/b/abs_2fhvpo862s/croot/tensorboard-data-server_1670853600144/work/tensorboard_data_server-0.6.1-py3-none-any.whl
-tensorboard-plugin-wit @ file:///C:/tf/b/tensorboard-plugin-wit_1660162132996/work/tensorboard_plugin_wit-1.8.1-py3-none-any.whl
+tensorboard
+tensorboard-data-server
+tensorboard-plugin-wit
 tensorflow==2.10.0
 tensorflow-datasets==1.2.0
-tensorflow-estimator @ file:///C:/Users/builder/adipietro/mc3/tf210/conda-bld/tensorflow-estimator_1669761460695/work/tensorflow_estimator-2.10.0-py2.py3-none-any.whl
-tensorflow-metadata @ file:///home/conda/feedstock_root/build_artifacts/tensorflow-metadata_1681266002142/work/tensorflow_metadata-1.13.1-py3-none-any.whl
-tinycss2 @ file:///C:/b/abs_52w5vfuaax/croot/tinycss2_1668168823131/work
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
-tomlkit @ file:///C:/Windows/TEMP/abs_3296qo9v6b/croots/recipe/tomlkit_1658946894808/work
-toolz @ file:///C:/b/abs_cfvk6rc40d/croot/toolz_1667464080130/work
-Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
-urllib3 @ file:///C:/b/abs_9bcwxczrvm/croot/urllib3_1673575521331/work
-validators @ file:///tmp/build/80754af9/validators_1612286467315/work
-websocket-client @ file:///C:/ci/websocket-client_1614804293275/work
+tensorflow-estimator
+tensorflow-metadata
+tinycss2
+toml
+tomli
+tomlkit
+toolz
+Unidecode
+urllib3
+validators
+websocket-client
 zipfile37==0.1.3
-zipp @ file:///C:/b/abs_b9jfdr908q/croot/zipp_1672387552360/work
+zipp
