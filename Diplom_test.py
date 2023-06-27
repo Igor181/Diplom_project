@@ -18,7 +18,7 @@ from glob import glob
 import zipfile
 import tempfile
 import graphviz
-import pydot
+import pydotplus
 
 st.set_page_config(
     layout="wide",
