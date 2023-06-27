@@ -7,7 +7,6 @@ Keras-Preprocessing
 matplotlib
 pandas
 Pillow==9.4.0
-pydot
 pydotplus
 scipy
 streamlit
