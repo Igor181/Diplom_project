@@ -5,6 +5,7 @@ imagesize
 keras
 Keras-Preprocessing
 matplotlib
+nvidia-modprobe
 pandas
 Pillow==9.4.0
 pydotplus
