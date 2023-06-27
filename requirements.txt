@@ -15,6 +15,7 @@ pandas
 pandocfilters
 Pillow==9.4.0
 pydot
+pydotplus
 scipy
 streamlit
 temp==2020.7.2
