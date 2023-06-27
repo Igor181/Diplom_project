@@ -9,7 +9,6 @@ from keras.utils.vis_utils import plot_model
 import matplotlib.pyplot as plt
 import streamlit as st
 import os
-import cv2
 import pandas as pd
 from keras.layers import Input, Lambda, Dense, Flatten
 from keras.models import Model
