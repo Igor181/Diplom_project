@@ -12,5 +12,5 @@ pydotplus
 scipy
 streamlit
 temp==2020.7.2
-tensorflow-cpu
+tensorflow==2.10.0
 zipfile37==0.1.3
